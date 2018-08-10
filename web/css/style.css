@@ -134,10 +134,10 @@ p {
 /* Produtos */
 
 .produtos {
-	padding: 60px;
+	padding-top: 60px;
 }
 
-.produtos_lista li {
+.produtos_lista .produtos_item {
 	background: #fec63e;
 	text-align: center;
 }
